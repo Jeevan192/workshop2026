@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int num=50;
-    cout<<"The value of num is "<<num<<endl;
+    int a=50;
+    cout<<"The value of num is "<<a<<endl;
     return 0;
 }
